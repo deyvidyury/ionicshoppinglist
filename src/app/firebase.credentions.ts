@@ -1,8 +1,8 @@
 export const FIREBASE_CONFIG = {
-  apiKey: "AIzaSyB3Z-JaEYtkSDcqpIOVm5vzPMpQVi9pDPE",
-  authDomain: "shoppinglist-5c3af.firebaseapp.com",
-  databaseURL: "https://shoppinglist-5c3af.firebaseio.com",
-  projectId: "shoppinglist-5c3af",
+  apiKey: "Your credentials",
+  authDomain: "Your credentials",
+  databaseURL: "Your credentials",
+  projectId: "Your credentials",
   storageBucket: "",
-  messagingSenderId: "124916100447"
+  messagingSenderId: "Your credentials"
 };
